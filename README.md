@@ -10,4 +10,4 @@ Designing a traffic light system between 4 crossroads, with the addition of an a
 ## 2 Elevators System
 Designing an elevator system of 3 floor levels with 2 elevators; each elevator has 3 buttons inside. There is only one button outside on each floor level for both elevators.  
 
-<img src="images/elevators.png" height="350">
+<img src="images/elevators.png" height="500">
