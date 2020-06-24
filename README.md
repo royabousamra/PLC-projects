@@ -1,6 +1,6 @@
 # PLC Applications
 ## 5-Way Switch
-Designing a 5-way switch that turns a lamp on and off.
+Designing a 5-way switch that turns a lamp or and off.
 
 ## Generators
 Desining a power system for a house using government-supplied electricity or one of the three available generators when the electricity is cut. Attention must be given to how generators work so that they don't malfunction.
